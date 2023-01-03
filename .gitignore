@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Topics/Abstract factory/Phone factory/out/
+/Topics/Abstract factory/Phone factory/out/production/classes/
+/Topics/Builder/Geek Builder/out/
+/Topics/Builder/Geek Builder/out/production/classes/
+/Topics/Factory method/Burger store/out/
+/Topics/Factory method/Burger store/out/production/classes/
+/Topics/Factory method/Clocks/out/
+/Topics/Factory method/Clocks/out/production/classes/
+/Topics/Factory method/Laptop store/out/
+/Topics/Factory method/Laptop store/out/production/classes/
+/Topics/Factory method/Motors/out/
+/Topics/Factory method/Motors/out/production/classes/
+/Topics/Factory method/Robot factory/out/
+/Topics/Factory method/Robot factory/out/production/classes/
+/Topics/LocalDate/2 weeks after/out/
+/Topics/LocalDate/2 weeks after/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalTime/Seconds between two time points/out/
+/Topics/LocalTime/Seconds between two time points/out/production/classes/
+/Topics/Patterns and Matcher/Start or end of a word/out/
+/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/
+/Topics/Reflection basics/Declared fields/out/
+/Topics/Reflection basics/Declared fields/out/production/classes/
